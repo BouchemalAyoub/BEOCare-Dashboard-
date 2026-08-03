@@ -25,6 +25,21 @@ This interactive dashboard was developed using **Microsoft Power BI** to analyze
 
 ---
 
+- ## 📊 Dashboard Pages
+
+-🏠 1. Overview
+
+
+-💊 2. Products
+
+
+-👥 3. Clients
+
+
+-👨‍⚕️ 4. Délégué
+
+---
+
 ## 🛠️ Technologies Used
 
 - Microsoft Power BI
